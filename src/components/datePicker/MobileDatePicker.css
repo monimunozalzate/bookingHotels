@@ -1,0 +1,38 @@
+.sc-ktwOSD.kqZhos {
+    width: 100%;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.15);
+}
+
+.kqZhos {
+    padding: 1rem;
+}
+
+.sc-csKIKE.lgPCKr {
+    border: 10px solid var(--orange);
+    border-radius: 50%;
+    background-color: var(--orange);
+}
+
+.sc-qZqnM.ffXpNA {
+    padding: 0.5rem;
+}
+
+.sc-csKIKE.lgPCKr {
+    width: 40px;
+    height: 40px;
+}
+
+.sc-irLwvL.eYddtP,
+.sc-irLwvL.ibDgNS {
+    color: white;
+}
+
+.sc-beySbM.gKcNJZ {
+    grid-template-columns: repeat(7, 30px) !important;
+    justify-content: center;
+}
+
+.sc-fsYeqs.itdJsF {
+    height: 30px;
+    width: 30px;
+}

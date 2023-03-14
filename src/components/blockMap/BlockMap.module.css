@@ -1,0 +1,18 @@
+.blockMapContainer {
+    margin-top: 2rem;
+}
+
+.title,
+.location {
+    margin-inline: 3vw;
+}
+
+.title {
+    margin-bottom: 0.6rem;
+    color: var(--darkGrey)
+}
+
+.location {
+    margin-block: 1rem;
+    font-weight: 700;
+}

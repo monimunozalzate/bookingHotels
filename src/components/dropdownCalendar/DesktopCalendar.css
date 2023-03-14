@@ -1,0 +1,134 @@
+#desktopCalendar .sc-dmyDGi.sc-blmETK.lVQoS.fApqrT,
+#desktopCalendar ._iconDiv_2611u_65 {
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: none;
+}
+
+#desktopCalendar .sc-beySbM.sc-dJGLCQ.kHRZO.SqlbA {
+    display: flex;
+    flex-direction: row;
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+
+/* input */
+
+#desktopCalendar .sc-jTQDnj.jolXKU,
+#desktopCalendar .sc-jTQDnj.bYuRhF {
+    height: 100%;
+    box-shadow: none;
+    width: 100%;
+    padding: 0;
+    border-radius: 5px;
+    min-height: 0;
+    font: inherit;
+}
+
+
+/* label */
+
+#desktopCalendar .sc-hLQRIN.jHGEvX {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid white;
+    border-radius: 0%;
+    gap: 0.5rem;
+    height: 2.5rem;
+    width: 50%;
+    border-radius: 5px 5px;
+}
+
+#desktopCalendar .sc-eDLJxc.biPlZV {
+    position: relative;
+    width: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-left: 0.5rem;
+}
+
+#desktopCalendar .sc-eDLJxc.biPlZV svg {
+    width: 1rem;
+}
+
+#desktopCalendar .ggNQJG,
+#desktopCalendar .bUekuf,
+#desktopCalendar .cNMxWo,
+#desktopCalendar .bhqzRD,
+#desktopCalendar .bhqzRD svg,
+#desktopCalendar .gVKljm {
+    display: none;
+}
+
+#desktopCalendar .sc-dmyDGi.gvhrmr {
+    position: absolute;
+    margin-top: 1rem;
+    max-width: 44rem;
+    border-radius: 0 0 8px 8px;
+    z-index: 100;
+    box-shadow: 0 1rem 2.5rem var(--darkGrey);
+    background-color: white;
+    left: -30%;
+}
+
+#desktopCalendar .sc-ktwOSD.kqZhos {
+    padding: 0 2rem 2rem;
+    height: 100%;
+    width: 100%;
+    box-shadow: none;
+    border-radius: 5px 5px;
+}
+
+#desktopCalendar .sc-csKIKE.lgPCKr {
+    border: 1px solid white;
+}
+
+#desktopCalendar.sc-fsYeqs.itdJsF,
+#desktopCalendar.sc-fsYeqs {
+    box-shadow: none;
+    border-radius: 50%;
+}
+
+.sc-fsYeqs.itdJsF {
+    box-shadow: none;
+    border-radius: 50%;
+}
+
+#desktopCalendar.sc-fsYeqs.kaBvzo,
+#desktopCalendar .kaBvzo,
+#desktopCalendar .sc-fsYeqs.bwPHUr {
+    background-color: var(--orange);
+    box-shadow: var(--orange);
+    border-radius: 50%;
+}
+
+
+/* -----------------media query------------------------- */
+
+@media (max-width: 900px) {
+    #desktopCalendar .sc-dmyDGi.gvhrmr {
+        left: -70%;
+    }
+}
+
+@media (max-width: 720px) {
+    #desktopCalendar .sc-dmyDGi.gvhrmr {
+        left: -95%;
+    }
+}
+
+@media (max-width: 720px) {
+    #desktopCalendar .sc-dmyDGi.gvhrmr {
+        left: -110%;
+    }
+}
+
+@media (max-width: 641px) {
+    #desktopCalendar .sc-dmyDGi.gvhrmr {
+        left: -135%;
+    }
+}

@@ -1,0 +1,32 @@
+    .sc-ktwOSD.kqZhos {
+        width: 100%;
+        margin: 2rem 0;
+        border-radius: 5px;
+        box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.15);
+    }
+    
+    .sc-csKIKE.lgPCKr {
+        border: 10px solid var(--orange);
+        border-radius: 50%;
+        background-color: var(--orange);
+    }
+    
+    .sc-csKIKE.lgPCKr {
+        width: 40px;
+        height: 40px;
+    }
+    
+    .sc-irLwvL.eYddtP,
+    .sc-irLwvL.ibDgNS {
+        color: white;
+    }
+    
+    .sc-beySbM.sc-fHekdT.febfxO.ijLVDP {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .sc-beySbM.gKcNJZ {
+        grid-template-columns: repeat(7, 38px) !important;
+    }

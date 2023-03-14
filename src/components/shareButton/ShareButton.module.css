@@ -1,0 +1,13 @@
+.shareButtonContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 6rem;
+    padding: 0 3vw;
+}
+
+button {
+    box-shadow: none;
+    width: 6rem;
+    height: 6rem;
+}
